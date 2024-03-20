@@ -1,2 +1,2 @@
-# MemXNet
-API wrapper for Mem-X
+# MemNet
+API wrapper for Mem
